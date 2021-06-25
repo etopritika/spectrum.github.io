@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_1463" data-name="Прямоугольник 1463" width="26" height="26" transform="translate(315 350)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_247" data-name="Группа масок 247" transform="translate(-315 -350)" clip-path="url(#clip-path)">
+    <g id="f_logo_RGB-Blue_1024" transform="translate(315 350)">
+      <path id="Контур_1205" data-name="Контур 1205" d="M26,13A13,13,0,1,0,10.969,25.843V16.758h-3.3V13h3.3V10.136c0-3.258,1.94-5.058,4.911-5.058a19.994,19.994,0,0,1,2.91.254v3.2h-1.64a1.879,1.879,0,0,0-2.118,2.031V13h3.605l-.576,3.758H15.031v9.085A13,13,0,0,0,26,13Z" fill="#1877f2"/>
+      <path id="Контур_1206" data-name="Контур 1206" d="M18.06,16.758,18.637,13H15.031V10.563a1.879,1.879,0,0,1,2.118-2.031h1.64v-3.2a19.994,19.994,0,0,0-2.91-.254c-2.971,0-4.911,1.8-4.911,5.058V13h-3.3v3.758h3.3v9.085a13.183,13.183,0,0,0,4.063,0V16.758Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
